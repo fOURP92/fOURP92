@@ -2,7 +2,6 @@
 
 <!--
 **fOURP92/fOURP92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![15454290](https://github.com/fOURP92/fOURP92/assets/34622425/bc640bf3-a0ea-4849-9cd1-89cf381be992)
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://stackoverflow.com/users/11148848/fourp"><img src="https://stackoverflow.com/users/flair/11148848.png" width="208" height="58" alt="profile for fOURP at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fOURP at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
