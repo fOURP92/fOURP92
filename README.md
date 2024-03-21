@@ -3,7 +3,7 @@
 <!--
 **fOURP92/fOURP92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://stackoverflow.com/users/11148848/fourp"><img src="https://stackoverflow.com/users/flair/11148848.png" width="208" height="58" alt="profile for fOURP at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fOURP at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+!<a href="https://stackoverflow.com/users/11148848/fourp"><img src="https://stackoverflow.com/users/flair/11148848.png" width="208" height="58" alt="profile for fOURP at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fOURP at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 
